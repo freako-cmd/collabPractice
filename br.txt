@@ -1,0 +1,1 @@
+Ich bin die erste Datei von Brigitta in ihrem ersten Branch, der zuerst lokal war
